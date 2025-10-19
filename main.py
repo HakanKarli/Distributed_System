@@ -30,7 +30,7 @@ def main() -> None:
     client_process.join()
     server_process.join()
 
-
+##Hier wurde ein Neuer kommentar hinzugefügt
 if __name__ == "__main__":
     multiprocessing.freeze_support()
     main()
